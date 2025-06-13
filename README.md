@@ -46,9 +46,9 @@ Actuellement en **Master Informatique**, je suis passionné par le développemen
 
 <div align="center">
   
-| 🚀 Projets réalisés | 📚 Années d'études | 💻 Technologies maîtrisées |
+| 🚀 Projets réalisés | 📚 Années d'études | 💻 Technologies apprises |
 |:-------------------:|:------------------:|:--------------------------:|
-| **25+** | **3+** | **12+** |
+| **5+** | **3+** | **12+** |
 
 </div>
 
@@ -59,15 +59,14 @@ Actuellement en **Master Informatique**, je suis passionné par le développemen
 
 ---
 
-## 🎯 Projets en cours
+## Projet(s) personnel(s)
 
 ### 🌐 Site Portfolio
-**Technologies** : React, Express, MongoDB, Bootstrap
+**Technologies** : React, HTML, CSS
 
 Mon premier projet personnel développé pour être à la hauteur des attentes des offres d'alternance. Je me suis lancé le défi d'apprendre React en autodidacte, un framework que je n'avais pas encore étudié dans mon cursus universitaire.
 
 **Prochaines étapes** :
-- ✅ Interface React fonctionnelle
 - 🔄 Implémentation base de données avec Express et MongoDB
 - 📋 Intégration Bootstrap pour le responsive design
 
@@ -77,23 +76,20 @@ Mon premier projet personnel développé pour être à la hauteur des attentes d
 
 ```javascript
 const pierrick = {
-    code: ["JavaScript", "Python", "PHP", "Swift"],
+    code: ["JavaScript", "PHP", "Swift"],
     askMeAbout: ["web dev", "tech", "app dev", "database design"],
     technologies: {
         frontEnd: {
             js: ["React", "Vanilla JS"],
-            css: ["Bootstrap", "CSS3"]
+            css: ["CSS3"]
         },
         backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask"],
-            php: ["Laravel"]
+            js: ["Node"],
         },
-        databases: ["PostgreSQL", "MySQL", "MongoDB"],
+        databases: ["PostgreSQL", "MySQL"],
         misc: ["Git", "WordPress", "Elementor"]
     },
     currentFocus: "Recherche d'alternance 2025-2026",
-    funFact: "Je découvre une nouvelle techno chaque semaine !"
 };
 ```
 
